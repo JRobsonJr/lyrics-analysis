@@ -1,0 +1,81 @@
+#1 ...Ready For It?:
+MOST COMMON WORD(S): ((['the'], 31), (['i'], 21), (['in'], 14))
+#2 End Game:
+MOST COMMON WORD(S): ((['i'], 56), (['wanna', 'you'], 35), (['be'], 28))
+#3 I Did Something Bad:
+MOST COMMON WORD(S): ((['i'], 27), (['it'], 23), (['good'], 20))
+#4 Don't Blame Me:
+MOST COMMON WORD(S): ((['my'], 35), (['me'], 31), (['it'], 16))
+#5 Delicate:
+MOST COMMON WORD(S): ((['it'], 52), (["isn't"], 36), (['that', 'i'], 29))
+#6 Look What You Made Me Do:
+MOST COMMON WORD(S): ((['you'], 46), (['me'], 43), (['made', 'what'], 40))
+#7 So It Goes...:
+MOST COMMON WORD(S): ((['so'], 27), (['you'], 19), (['it'], 14))
+#8 Gorgeous:
+MOST COMMON WORD(S): ((['you', 'i', 'so'], 20), (['gorgeous'], 13), (['it'], 12))
+#9 Getaway Car:
+MOST COMMON WORD(S): ((['the'], 35), (['a'], 31), (['in'], 28))
+#10 King of my Heart:
+MOST COMMON WORD(S): ((['and'], 34), (['all'], 24), (['waiting'], 18))
+#11 Dancing With Our Hands Tied:
+MOST COMMON WORD(S): ((['dancing'], 22), (['hands', 'we'], 18), (['tied', 'you'], 16))
+#12 Dress:
+MOST COMMON WORD(S): ((['you'], 26), (['ha', 'my'], 20), (['this', 'and'], 17))
+#13 This Is Why We Can't Have Nice Things:
+MOST COMMON WORD(S): ((['you'], 21), (['to'], 16), (['things'], 14))
+#14 Call It What You Want:
+MOST COMMON WORD(S): ((['it', 'call'], 43), (['you'], 37), (['what', 'want'], 33))
+#15 New Year's Day:
+MOST COMMON WORD(S): ((['on'], 27), (['the'], 25), (['to'], 21))
+OVERALL:
+MOST COMMON WORD: ((['you'], 322), (['i'], 288), (['the'], 223))
+{1: ['switched', 'magnetic', 'four', 'avalanche', 'ice', "drinkin'", 'saved', 'issues', 'young', 'endings', 'crimson', 'g5', 'song', 'very', 'myself', 'decide', 'join', 'rebounds', "we'll", 'die', 'heist', 'gun', 'these', 'liars', 'clothes', 'warm', 'says', 'regret', 'fence', 'jump', 'talks', 'second', 'trick', 'giving', 'poison', 'crush', 'told', 'grey', 'sink', 'meet', 'along', 'shoulda', 'boy', 'great', 'bathtub', 'ahead', 'shades', 'precede', 'crumbled', 'proof', 'prints', 'divide', 'win', 'feelings', 'brought', '\xe2\x80\x98cause', 'use', 'swings', "trip-trippin'", 'story', 'next', 'few', 'live', 'strike', "makin'", 'hiding', 'until', 'playboy', 'knows', 'started', 'share', 'under', 'haha', 'drown', 'keeping', 'locked', 'recall', "whippin'", 'roof', 'island', 'drops', 'beautiful', 'spends', 'bones', 'stole', 'crimes', 'a-side', '1', 'maps', 'sacred', 'tried', 'dive', 'insecurities', 'mended', '4th', 'bluff', 'coming', 'guys', 'third', 'crowded', 'whenever', 'shady', "breakin'", 'overnight', 'darkened', 'crawling', 'necklace', 'talk', 'wine', 'years', 'held', 'shake', 'stabbed', 'perfect', 'bridges', 'lifeline', 'actually', 'fade', 'weeks', "shakin'", 'easier', 'happened', 'fool', 'running', '3', 'killer', 'school', 'bang', 'touching', 'cage', 'halo', 'feast', 'hatchets', 'mean', 'tilted', 'doing', 'brother', 'stealing', 'obsession', 'wondered', 'motel', 'looking', 'paradise', 'goes)\xe2\x80\xa6', 'twenty-five', 'issue', 'turning', 'bass', 'electrified', 'oasis', 'receipts', 'priorities', 'daisy', 'dressing', 'castle', 'footsteps', 'reconnected', 'ties', 'cups', 'fire', 'guess', 'paint', 'plastic', '2', 'forevermore', 'passed', 'white', 'perfectly', 'illusionist', "screamin'", 'putting', 'want\xe2\x80\xa6', 'july', 'believe', 'stairs', 'grace', 'boyfriend', 'grew', 'gotta', 'beg', 'bed', 'seen', 'nights', 'built', 'gravity', 'which', "lyin'", 'sure', 'unless', 'though', 'mansion', 'exes', 'queens', 'deny', 'failure', 'windows', 'clear', 'sunset', 'axe', 'rattling', 'vendetta-ta', 'show', 'bonnie', 'chandelier', 'fine', 'spite', 'explain', 'jailer', 'paranoia', 'crime', "sayin'", 'hostage', 'dope', 'act', 'haunted', 'words', 'chips', 'gray', 'champagne', 'spilling', "callin'", 'bag', 'stuff', 'boarded', 'view', 'insane', 'blew', 'learn', 'throwing', 'liquor', 'vine', 'asleep', 'sea', 'close', 'ruined', 'wonder', 'knees', 'oh-so-easy', 'enough', 'reading', 'lover', 'protect', "bein'", 'many', 'taking', 'argue', 'asked', 'knee-deep', 'jeans', 'whatever', 'walk', "couldn't", 'kings', 'november', 'boat', "trippin'", 'strong', 'west', 'breath', 'taste', 'beer', 'waste', 'threw', 'shoulders', 'circus', 'painted', 'overdose', 'playthings', 'robber', 'buzzcut', 'frozen', 'might', 'straight', 'tip', 'choices', 'while', 'owns', "nobody's", 'listen', 'hoping', "runnin'", 'nightstand', 'against', 'violin', 'ivy', 'disappear', 'ransom', 'locking', 'cross', "pacin'", 'trip', 'rules', 'forgiveness', 'persona', 'pitchforks', 'rain', "skippin'", 'magician', 'usual', 'ocean', "toyin'", 'taxi', 'gates', 'moments', 'money', 'mending', 'yes', 'cut', 'field', 'ease', 'wall', 'clyde', 'prison', 'struck', 'earthquakes', 'match', 'luxury', 'around', 'narcissist', 'color', "thinkin'", 'flowers', 'ignore', 'starry', 'therein', 'traitors', 'people', 'understand', 'scared', 'born', 'sight', 'escape', 'reasons', 'stumble', 'fears', 'knife', 'laughing', 'who', "thing's", 'burn', 'sprung', 'broken', 'about\xe2\x80\x94', "sparkin'", 'flaws', 'bury', 'stage', 'comparison', 'freedom', 'months', 'swear', 'tongue', 'road', 'swimming', 'own', 'momma', 'thief', 'parties', 'burton', 'jet-set', 'parade', 'east', 'gunfight', 'spending', 'initial', 'thorns', 'tame', 'cats', 'slowly', 'belonged', 'himself', 'crown', 'sideshow', 'line', 'squeeze', 'handsome', 'throw', 'traits', 'si-i-i-i-ide', "skip-skippin'", 'whiskey', "nothin'", 'stoked', "why'd", 'mind-twist', 'year', 'covers', 'single', 'girlfriend', 'shit', 'balcony', 'phantom', 'maybe', 'rumors', 'dying', 'club', 'role', 'really', 'hey', 'surprise', 'inescapable', 'town', 'chance', 'gatsby', 'jokers', 'needed', 'pool', 'nikes', 'ago', 'younger', 'candlelight', 'paces', 'tricks', 'forts', "city's", 'bleached', 'karma', 'alright'], 2: ['forget', 'chain', 'sleep', 'skin', 'anticipation', 'marks', 'list', 'round', 'flashback', 'water', "aren't", 'change', 'reason', "weren't", 'indentation', 'type', 'tryna', 'hurt', 'locket', 'polaroids', "comin'", 'end', 'beach', 'mess', 'spot', 'jaguars', 'neck', 'reputations', 'goodbye', 'shoes', "touchin'", 'through', 'same', 'before', 'smarter', 'desperately', 'hearts', 'swaying', 'went', 'nick', 'he-said-she-said', 'precedes', 'twice', 'salute', 'cars', 'quite', 'x', 'put', 'wanted', 'days', 'conversation', 'american', 'consequence', 'fancy', 'rovers', 'glitter', 'least', 'storm', 'talking', 'lie', 'without', 'ex-love', 'sometimes', 'underlined', 'shot', 'gold', 'queen', 'ha-ah-ah-ah', 'darkest', 'hit', 'stop', 'ones', 'calling', "could've", 'witches', 'poisoned', 'motown', 'compliment', 'wear', 'hurts', 'invisible', 'drunk', 'simple', 'flames', 'mark', 'much', 'damn', 'woke', 'turned', 'wake', 'deep', 'harder', 'i\xe2\x80\x93', 'tattoo', 'party', 'keys', 'jealous', 'hardwood', 'lobby', 'shotgun', 'spent', 'shape', 'rose', 'real', 'bit', 'apart', "cryin'", 'works', 'hair', 'thinks', 'enemies', 'wrong', 'expensive', 'run', 'late', 'range', 'rule', 'pockets', 'burning', 'owe', 'cursed', "tryin'", 'git', 'her', 'dreaming', 'lost', 'wax', 'rushes', 'ghost', 'idea', 'oh-oh', "they're", 'care', 'taylor', 'fashioned', 'candle', 'moves', 'lately', 'holding', 'picture', 'fell', "she's", "dyin'", 'carrying', "holdin'"], 3: ['dance', 'drinking', 'daydream', 'golden', 'names', 'phone', 'scratches', 'must', 'stream', "didn't", "reputation's", 'low', 'mad', 'man', 'worst', 'move', 'fit', 'better', 'bedpost', 'carve', 'number', 'mystery', 'times', 'truth', 'lipstick', "drivin'", "year's", 'drink', 'scene', "'em", 'jet', 'any', 'blue', 'furious', "that's", 'cleaning', 'toast', 'being', 'above', 'loved', 'bar', 'burned', 'sirens', "shoulda'", 'three', 'bottles', 'moment', 'i-island', 'older', 'well', 'breeze', 'echoes', 'left', 'kiss', 'me\xe2\x80\xa6', 'read', 'dark', 'page', 'dead', 'lips', 'home', 'oh-oh-ahh', 'stops', 'everything', 'by', 'anything', 'lies', 'secret', 'brand', 'forever', 'boys', 'oh-oh-oh', "flyin'", 'tell', 'midnights', "we'd", 'gone', 'promises', 'kingdom', 'dressed', "gon'"], 4: ['whose', 'sorry', 'fly', 'happy', 'try', 'red', 'makes', 'patience', 'lose', 'babe', 'anywhere', 'counting', 'worse', 'such', 'silence', 'soon', "you've", 'day', 'turns', 'everyone', 'hard', 'miss', 'trusts', 'starts', 'another', 'took', 'loves', 'mind', 'sad', 'need', 'saw', 'honestly', 'play', "you'll", 'his', 'please', 'last', 'whole', 'pining', 'has', "wouldn't", 'ha-ah-ah', 'hand', 'actress', 'yet', "who's", 'stranger', 'become', 'old', 'starring', 'most', 'long', 'hear', 'inside', 'recognize', 'check', 'other', 'friends'], 5: ['known', 'fall', 'more', 'high', 'pretend', 'making', "lovin'", 'pieces', 'heard', 'thing', 'side', 'girl', 'out', 'leave', 'after', 'caught', 'because', 'black', "ridin'", 'both', 'chill', 'ready', 'mistakes', 'laugh', 'some', 'drama', 'or', 'way', 'goes\xe2\x80\xa6', 'floor', 'felt', 'stay'], 6: ['little', 'hate', 'lights', 'new', "he's", 'girls', 'mine', 'walking', "baby's", "there's", 'fun', 'shaking', 'gonna', 'me\xe2\x80\x94', "we're", 'beat'], 7: ['even', 'goes', 'here', 'alone', 'should', 'far', 'room', 'middle', 'break', 'darling', "doesn't", 'friend', "here's", 'king', 'knew', 'blame', 'come', 'trust', 'keep', 'touch', 'an', 'again'], 8: ['crazy', 'honey', 'than', 'eyes', 'nobody', 'feeling', 'him', 'head', 'ha-ah'], 9: ['lord', 'string', 'met', 'would', 'how', 'name', 'drug', 'yours', 'world', 'memories', "i've", 'us'], 10: ['a-team', 'cool', 'ever', 'something', 'dress', "doin'", 'place', 'too', 'away', 'rest', 'bought', 'as', 'dreams', 'save', "why's", 'into'], 11: ['go', 'body', "i'd", 'over', 'them', 'not', 'there', 'night', 'their', 'reputation', 'best', 'ah'], 12: ['every', 'soul', 'then', 'why', "usin'", 'will', 'off', 'begin'], 13: ['gorgeous', 'heart', 'our', 'only', 'see', 'games', 'where', 'life', 'nice'], 14: ['nothing'], 15: ['from', "ain't", 'light', 'think', 'back', 'face', 'make', 'delicate', 'big', 'right'], 16: ['tied', 'been', 'down', 'when'], 17: ['let', 'love', 'get'], 18: ['did', 'no', 'feel', 'said'], 19: ['endgame'], 20: ['waiting', 'can', 'ha', 'whoa'], 21: ['got', 'now', 'he', 'things', 'about', 'once'], 22: ['car', 'dancing', 'getaway', 'had'], 23: ['hold', 'have'], 24: ["i'll", 'hands', 'could', 'are'], 25: ['good', "can't", "it's"], 26: ['one', 'take', 'if'], 27: ['never', 'say'], 52: ['like'], 29: ['was', 'at'], 30: ['baby', 'yeah', 'first', 'were'], 31: ['bad'], 288: ['i'], 162: ['and'], 35: ['ooh'], 37: ["isn't", "you're", 'wanna', 'up'], 39: ['oh'], 40: ['they', 'with'], 42: ['just'], 44: ['that', 'for'], 46: ['call', 'look'], 48: ['this'], 49: ['want'], 180: ['me'], 53: ['made'], 56: ["i'm"], 57: ["don't"], 58: ['is'], 60: ['be'], 62: ['do'], 64: ['we', 'but'], 65: ['on'], 66: ['of'], 32: ['know', 'time'], 73: ['all'], 322: ['you'], 34: ["'cause"], 84: ['your'], 90: ['what'], 223: ['the'], 99: ['in'], 101: ['so'], 104: ['to'], 140: ['my'], 212: ['it'], 126: ['a']}
+
+
+UNIQUE SONGS ANALYSIS:
+#1 ...Ready For It?:
+['very', 'join', "we'll", 'heist', 'island', 'running', 'killer', 'stealing', 'wondered', 'though', 'exes', 'failure', 'vendetta-ta', 'jailer', "sayin'", 'act', 'haunted', 'many', 'robber', 'ransom', 'comparison', 'thief', 'burton', 'tame', 'phantom', 'younger']
+6.06060606061 percent (26) unique words. 
+#2 End Game:
+['four', 'issues', 'young', 'g5', 'song', 'told', 'boy', 'precede', 'prints', "whippin'", 'beautiful', 'a-side', 'maps', 'tried', 'insecurities', '4th', 'bluff', 'whenever', 'easier', 'bang', 'hatchets', 'reconnected', 'passed', 'july', 'believe', 'deny', 'paranoia', 'dope', 'words', 'chips', 'liquor', 'protect', 'argue', 'knee-deep', "couldn't", 'boat', 'shoulders', 'overdose', 'tip', 'choices', 'persona', 'usual', 'ease', 'ignore', 'understand', 'born', 'sprung', 'flaws', 'bury', 'swear', 'tongue', 'traits', 'stoked', 'rumors', 'hey', 'tricks']
+8.22320117474 percent (56) unique words. 
+#3 I Did Something Bad:
+['saved', 'crimson', 'says', 'regret', 'talks', 'ahead', 'proof', 'next', 'playboy', 'drops', 'spends', 'coming', 'receipts', 'paint', 'gotta', 'oh-so-easy', 'violin', 'pitchforks', 'around', 'narcissist', 'reasons', 'throw', "nothin'", 'shit']
+5.55555555556 percent (24) unique words. 
+#4 Don't Blame Me:
+['decide', 'poison', 'use', 'hiding', 'guys', "breakin'", "shakin'", 'happened', 'halo', 'obsession', 'paradise', 'daisy', 'grace', 'beg', 'insane', 'knees', 'whatever', 'walk', 'waste', 'playthings', 'ivy', 'cross', "pacin'", 'trip', "toyin'", 'line']
+5.48523206751 percent (26) unique words. 
+#5 Delicate:
+['meet', 'share', 'dive', 'third', 'footsteps', 'stairs', 'seen', 'mansion', 'view', 'wonder', 'jeans', 'west', 'nightstand', 'color', 'east', 'handsome', 'nikes']
+3.3203125 percent (17) unique words. 
+#6 Look What You Made Me Do:
+['gun', 'locked', 'perfect', 'fool', 'feast', 'tilted', 'sure', 'crime', 'asked', 'threw', "thing's", 'stage', 'belonged', 'maybe', 'role', 'karma']
+2.87253141831 percent (16) unique words. 
+#7 So It Goes...:
+['grey', 'feelings', "trip-trippin'", '1', 'necklace', '3', 'cage', 'goes)\xe2\x80\xa6', '2', 'illusionist', 'clear', 'hostage', "trippin'", 'against', 'disappear', "skippin'", 'magician', 'cut', 'wall', "skip-skippin'"]
+5.15463917526 percent (20) unique words. 
+#8 Gorgeous:
+['magnetic', 'ice', 'die', 'sink', 'along', 'drown', 'darkened', 'talk', 'actually', 'touching', 'doing', 'looking', 'guess', 'boyfriend', 'unless', 'sunset', 'vine', 'ruined', 'strong', 'might', 'ocean', 'field', 'stumble', 'cats', 'whiskey', 'single', 'girlfriend', 'club']
+7.25388601036 percent (28) unique words. 
+#9 Getaway Car:
+['switched', "drinkin'", 'myself', 'shoulda', 'great', 'shades', 'win', 'story', 'until', 'stole', 'crimes', 'mean', 'motel', 'ties', 'white', "screamin'", "lyin'", 'bonnie', 'gray', 'bag', 'blew', 'circus', "runnin'", 'money', 'clyde', 'prison', 'struck', 'match', "thinkin'", 'traitors', 'escape', 'freedom', 'jet-set', 'himself', 'sideshow', 'si-i-i-i-ide', 'surprise', 'needed', 'candlelight']
+7.0780399274 percent (39) unique words. 
+#10 King of my Heart:
+['endings', 'these', 'clothes', 'crush', 'few', 'live', 'roof', 'bones', 'weeks', 'school', 'priorities', 'cups', 'plastic', 'perfectly', 'nights', 'fine', "callin'", 'stuff', 'asleep', 'enough', "bein'", 'taste', 'beer', 'hoping', 'mending', 'luxury', 'broken', 'own', 'spending', 'dying', 'ago', "city's"]
+6.69456066946 percent (32) unique words. 
+#11 Dancing With Our Hands Tied:
+['avalanche', 'divide', 'started', 'keeping', 'sacred', 'years', 'held', 'twenty-five', 'oasis', 'putting', 'bed', 'gravity', 'spite', 'close', 'painted', 'frozen', 'people', 'sight', 'fears', 'who', 'paces']
+4.91803278689 percent (21) unique words. 
+#12 Dress:
+['rebounds', 'bathtub', 'crowded', 'wine', 'shake', 'lifeline', 'electrified', 'explain', 'spilling', 'buzzcut', 'moments', 'earthquakes', 'about\xe2\x80\x94', 'inescapable', 'bleached']
+3.0549898167 percent (15) unique words. 
+#13 This Is Why We Can't Have Nice Things:
+['fence', 'jump', 'second', 'trick', 'giving', '\xe2\x80\x98cause', 'haha', 'mended', 'shady', 'stabbed', 'issue', 'bass', 'axe', 'rattling', 'show', 'chandelier', 'champagne', 'throwing', 'sea', 'reading', 'straight', 'while', 'listen', 'locking', 'rules', 'forgiveness', 'rain', 'gates', 'therein', 'swimming', 'momma', 'parties', 'parade', "why'd", 'mind-twist', 'year', 'balcony', 'chance', 'gatsby', 'pool']
+10.1781170483 percent (40) unique words. 
+#14 Call It What You Want:
+['liars', 'warm', 'crumbled', 'brought', 'swings', "makin'", 'knows', 'under', 'recall', 'overnight', 'bridges', 'fade', 'brother', 'dressing', 'castle', 'fire', 'want\xe2\x80\xa6', 'grew', 'built', 'which', 'queens', 'windows', 'boarded', 'learn', 'lover', 'taking', 'kings', 'november', 'breath', 'owns', "nobody's", 'yes', 'flowers', 'starry', 'knife', 'laughing', 'burn', "sparkin'", 'months', 'gunfight', 'initial', 'thorns', 'slowly', 'crown', 'covers', 'really', 'jokers', 'forts', 'alright']
+9.5703125 percent (49) unique words. 
+#15 New Year's Day:
+['strike', 'crawling', 'turning', 'forevermore', 'taxi', 'scared', 'road', 'squeeze', 'town']
+2.43902439024 percent (9) unique words. 

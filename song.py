@@ -9,7 +9,7 @@ class Song:
     def get_most_common(self):
         keys = self.inv_freq.keys()
         keys = sorted(keys, reverse=True)
-        return (self.inv_freq.get(keys[0]), keys[0])
+        return (self.inv_freq.get(keys[0]), keys[0]), (self.inv_freq.get(keys[1]), keys[1]), (self.inv_freq.get(keys[2]), keys[2])
     
     def get_unique(self):
         keys = self.inv_freq.keys()
