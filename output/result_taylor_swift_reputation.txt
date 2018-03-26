@@ -1,81 +1,278 @@
-#1 ...Ready For It?:
-MOST COMMON WORD(S): ((['the'], 31), (['i'], 21), (['in'], 14))
-#2 End Game:
-MOST COMMON WORD(S): ((['i'], 56), (['wanna', 'you'], 35), (['be'], 28))
-#3 I Did Something Bad:
-MOST COMMON WORD(S): ((['i'], 27), (['it'], 23), (['good'], 20))
-#4 Don't Blame Me:
-MOST COMMON WORD(S): ((['my'], 35), (['me'], 31), (['it'], 16))
-#5 Delicate:
-MOST COMMON WORD(S): ((['it'], 52), (["isn't"], 36), (['that', 'i'], 29))
-#6 Look What You Made Me Do:
-MOST COMMON WORD(S): ((['you'], 46), (['me'], 43), (['made', 'what'], 40))
-#7 So It Goes...:
-MOST COMMON WORD(S): ((['so'], 27), (['you'], 19), (['it'], 14))
-#8 Gorgeous:
-MOST COMMON WORD(S): ((['you', 'i', 'so'], 20), (['gorgeous'], 13), (['it'], 12))
-#9 Getaway Car:
-MOST COMMON WORD(S): ((['the'], 35), (['a'], 31), (['in'], 28))
-#10 King of my Heart:
-MOST COMMON WORD(S): ((['and'], 34), (['all'], 24), (['waiting'], 18))
-#11 Dancing With Our Hands Tied:
-MOST COMMON WORD(S): ((['dancing'], 22), (['hands', 'we'], 18), (['tied', 'you'], 16))
-#12 Dress:
-MOST COMMON WORD(S): ((['you'], 26), (['ha', 'my'], 20), (['this', 'and'], 17))
-#13 This Is Why We Can't Have Nice Things:
-MOST COMMON WORD(S): ((['you'], 21), (['to'], 16), (['things'], 14))
-#14 Call It What You Want:
-MOST COMMON WORD(S): ((['it', 'call'], 43), (['you'], 37), (['what', 'want'], 33))
-#15 New Year's Day:
-MOST COMMON WORD(S): ((['on'], 27), (['the'], 25), (['to'], 21))
 OVERALL:
-MOST COMMON WORD: ((['you'], 322), (['i'], 288), (['the'], 223))
-{1: ['switched', 'magnetic', 'four', 'avalanche', 'ice', "drinkin'", 'saved', 'issues', 'young', 'endings', 'crimson', 'g5', 'song', 'very', 'myself', 'decide', 'join', 'rebounds', "we'll", 'die', 'heist', 'gun', 'these', 'liars', 'clothes', 'warm', 'says', 'regret', 'fence', 'jump', 'talks', 'second', 'trick', 'giving', 'poison', 'crush', 'told', 'grey', 'sink', 'meet', 'along', 'shoulda', 'boy', 'great', 'bathtub', 'ahead', 'shades', 'precede', 'crumbled', 'proof', 'prints', 'divide', 'win', 'feelings', 'brought', '\xe2\x80\x98cause', 'use', 'swings', "trip-trippin'", 'story', 'next', 'few', 'live', 'strike', "makin'", 'hiding', 'until', 'playboy', 'knows', 'started', 'share', 'under', 'haha', 'drown', 'keeping', 'locked', 'recall', "whippin'", 'roof', 'island', 'drops', 'beautiful', 'spends', 'bones', 'stole', 'crimes', 'a-side', '1', 'maps', 'sacred', 'tried', 'dive', 'insecurities', 'mended', '4th', 'bluff', 'coming', 'guys', 'third', 'crowded', 'whenever', 'shady', "breakin'", 'overnight', 'darkened', 'crawling', 'necklace', 'talk', 'wine', 'years', 'held', 'shake', 'stabbed', 'perfect', 'bridges', 'lifeline', 'actually', 'fade', 'weeks', "shakin'", 'easier', 'happened', 'fool', 'running', '3', 'killer', 'school', 'bang', 'touching', 'cage', 'halo', 'feast', 'hatchets', 'mean', 'tilted', 'doing', 'brother', 'stealing', 'obsession', 'wondered', 'motel', 'looking', 'paradise', 'goes)\xe2\x80\xa6', 'twenty-five', 'issue', 'turning', 'bass', 'electrified', 'oasis', 'receipts', 'priorities', 'daisy', 'dressing', 'castle', 'footsteps', 'reconnected', 'ties', 'cups', 'fire', 'guess', 'paint', 'plastic', '2', 'forevermore', 'passed', 'white', 'perfectly', 'illusionist', "screamin'", 'putting', 'want\xe2\x80\xa6', 'july', 'believe', 'stairs', 'grace', 'boyfriend', 'grew', 'gotta', 'beg', 'bed', 'seen', 'nights', 'built', 'gravity', 'which', "lyin'", 'sure', 'unless', 'though', 'mansion', 'exes', 'queens', 'deny', 'failure', 'windows', 'clear', 'sunset', 'axe', 'rattling', 'vendetta-ta', 'show', 'bonnie', 'chandelier', 'fine', 'spite', 'explain', 'jailer', 'paranoia', 'crime', "sayin'", 'hostage', 'dope', 'act', 'haunted', 'words', 'chips', 'gray', 'champagne', 'spilling', "callin'", 'bag', 'stuff', 'boarded', 'view', 'insane', 'blew', 'learn', 'throwing', 'liquor', 'vine', 'asleep', 'sea', 'close', 'ruined', 'wonder', 'knees', 'oh-so-easy', 'enough', 'reading', 'lover', 'protect', "bein'", 'many', 'taking', 'argue', 'asked', 'knee-deep', 'jeans', 'whatever', 'walk', "couldn't", 'kings', 'november', 'boat', "trippin'", 'strong', 'west', 'breath', 'taste', 'beer', 'waste', 'threw', 'shoulders', 'circus', 'painted', 'overdose', 'playthings', 'robber', 'buzzcut', 'frozen', 'might', 'straight', 'tip', 'choices', 'while', 'owns', "nobody's", 'listen', 'hoping', "runnin'", 'nightstand', 'against', 'violin', 'ivy', 'disappear', 'ransom', 'locking', 'cross', "pacin'", 'trip', 'rules', 'forgiveness', 'persona', 'pitchforks', 'rain', "skippin'", 'magician', 'usual', 'ocean', "toyin'", 'taxi', 'gates', 'moments', 'money', 'mending', 'yes', 'cut', 'field', 'ease', 'wall', 'clyde', 'prison', 'struck', 'earthquakes', 'match', 'luxury', 'around', 'narcissist', 'color', "thinkin'", 'flowers', 'ignore', 'starry', 'therein', 'traitors', 'people', 'understand', 'scared', 'born', 'sight', 'escape', 'reasons', 'stumble', 'fears', 'knife', 'laughing', 'who', "thing's", 'burn', 'sprung', 'broken', 'about\xe2\x80\x94', "sparkin'", 'flaws', 'bury', 'stage', 'comparison', 'freedom', 'months', 'swear', 'tongue', 'road', 'swimming', 'own', 'momma', 'thief', 'parties', 'burton', 'jet-set', 'parade', 'east', 'gunfight', 'spending', 'initial', 'thorns', 'tame', 'cats', 'slowly', 'belonged', 'himself', 'crown', 'sideshow', 'line', 'squeeze', 'handsome', 'throw', 'traits', 'si-i-i-i-ide', "skip-skippin'", 'whiskey', "nothin'", 'stoked', "why'd", 'mind-twist', 'year', 'covers', 'single', 'girlfriend', 'shit', 'balcony', 'phantom', 'maybe', 'rumors', 'dying', 'club', 'role', 'really', 'hey', 'surprise', 'inescapable', 'town', 'chance', 'gatsby', 'jokers', 'needed', 'pool', 'nikes', 'ago', 'younger', 'candlelight', 'paces', 'tricks', 'forts', "city's", 'bleached', 'karma', 'alright'], 2: ['forget', 'chain', 'sleep', 'skin', 'anticipation', 'marks', 'list', 'round', 'flashback', 'water', "aren't", 'change', 'reason', "weren't", 'indentation', 'type', 'tryna', 'hurt', 'locket', 'polaroids', "comin'", 'end', 'beach', 'mess', 'spot', 'jaguars', 'neck', 'reputations', 'goodbye', 'shoes', "touchin'", 'through', 'same', 'before', 'smarter', 'desperately', 'hearts', 'swaying', 'went', 'nick', 'he-said-she-said', 'precedes', 'twice', 'salute', 'cars', 'quite', 'x', 'put', 'wanted', 'days', 'conversation', 'american', 'consequence', 'fancy', 'rovers', 'glitter', 'least', 'storm', 'talking', 'lie', 'without', 'ex-love', 'sometimes', 'underlined', 'shot', 'gold', 'queen', 'ha-ah-ah-ah', 'darkest', 'hit', 'stop', 'ones', 'calling', "could've", 'witches', 'poisoned', 'motown', 'compliment', 'wear', 'hurts', 'invisible', 'drunk', 'simple', 'flames', 'mark', 'much', 'damn', 'woke', 'turned', 'wake', 'deep', 'harder', 'i\xe2\x80\x93', 'tattoo', 'party', 'keys', 'jealous', 'hardwood', 'lobby', 'shotgun', 'spent', 'shape', 'rose', 'real', 'bit', 'apart', "cryin'", 'works', 'hair', 'thinks', 'enemies', 'wrong', 'expensive', 'run', 'late', 'range', 'rule', 'pockets', 'burning', 'owe', 'cursed', "tryin'", 'git', 'her', 'dreaming', 'lost', 'wax', 'rushes', 'ghost', 'idea', 'oh-oh', "they're", 'care', 'taylor', 'fashioned', 'candle', 'moves', 'lately', 'holding', 'picture', 'fell', "she's", "dyin'", 'carrying', "holdin'"], 3: ['dance', 'drinking', 'daydream', 'golden', 'names', 'phone', 'scratches', 'must', 'stream', "didn't", "reputation's", 'low', 'mad', 'man', 'worst', 'move', 'fit', 'better', 'bedpost', 'carve', 'number', 'mystery', 'times', 'truth', 'lipstick', "drivin'", "year's", 'drink', 'scene', "'em", 'jet', 'any', 'blue', 'furious', "that's", 'cleaning', 'toast', 'being', 'above', 'loved', 'bar', 'burned', 'sirens', "shoulda'", 'three', 'bottles', 'moment', 'i-island', 'older', 'well', 'breeze', 'echoes', 'left', 'kiss', 'me\xe2\x80\xa6', 'read', 'dark', 'page', 'dead', 'lips', 'home', 'oh-oh-ahh', 'stops', 'everything', 'by', 'anything', 'lies', 'secret', 'brand', 'forever', 'boys', 'oh-oh-oh', "flyin'", 'tell', 'midnights', "we'd", 'gone', 'promises', 'kingdom', 'dressed', "gon'"], 4: ['whose', 'sorry', 'fly', 'happy', 'try', 'red', 'makes', 'patience', 'lose', 'babe', 'anywhere', 'counting', 'worse', 'such', 'silence', 'soon', "you've", 'day', 'turns', 'everyone', 'hard', 'miss', 'trusts', 'starts', 'another', 'took', 'loves', 'mind', 'sad', 'need', 'saw', 'honestly', 'play', "you'll", 'his', 'please', 'last', 'whole', 'pining', 'has', "wouldn't", 'ha-ah-ah', 'hand', 'actress', 'yet', "who's", 'stranger', 'become', 'old', 'starring', 'most', 'long', 'hear', 'inside', 'recognize', 'check', 'other', 'friends'], 5: ['known', 'fall', 'more', 'high', 'pretend', 'making', "lovin'", 'pieces', 'heard', 'thing', 'side', 'girl', 'out', 'leave', 'after', 'caught', 'because', 'black', "ridin'", 'both', 'chill', 'ready', 'mistakes', 'laugh', 'some', 'drama', 'or', 'way', 'goes\xe2\x80\xa6', 'floor', 'felt', 'stay'], 6: ['little', 'hate', 'lights', 'new', "he's", 'girls', 'mine', 'walking', "baby's", "there's", 'fun', 'shaking', 'gonna', 'me\xe2\x80\x94', "we're", 'beat'], 7: ['even', 'goes', 'here', 'alone', 'should', 'far', 'room', 'middle', 'break', 'darling', "doesn't", 'friend', "here's", 'king', 'knew', 'blame', 'come', 'trust', 'keep', 'touch', 'an', 'again'], 8: ['crazy', 'honey', 'than', 'eyes', 'nobody', 'feeling', 'him', 'head', 'ha-ah'], 9: ['lord', 'string', 'met', 'would', 'how', 'name', 'drug', 'yours', 'world', 'memories', "i've", 'us'], 10: ['a-team', 'cool', 'ever', 'something', 'dress', "doin'", 'place', 'too', 'away', 'rest', 'bought', 'as', 'dreams', 'save', "why's", 'into'], 11: ['go', 'body', "i'd", 'over', 'them', 'not', 'there', 'night', 'their', 'reputation', 'best', 'ah'], 12: ['every', 'soul', 'then', 'why', "usin'", 'will', 'off', 'begin'], 13: ['gorgeous', 'heart', 'our', 'only', 'see', 'games', 'where', 'life', 'nice'], 14: ['nothing'], 15: ['from', "ain't", 'light', 'think', 'back', 'face', 'make', 'delicate', 'big', 'right'], 16: ['tied', 'been', 'down', 'when'], 17: ['let', 'love', 'get'], 18: ['did', 'no', 'feel', 'said'], 19: ['endgame'], 20: ['waiting', 'can', 'ha', 'whoa'], 21: ['got', 'now', 'he', 'things', 'about', 'once'], 22: ['car', 'dancing', 'getaway', 'had'], 23: ['hold', 'have'], 24: ["i'll", 'hands', 'could', 'are'], 25: ['good', "can't", "it's"], 26: ['one', 'take', 'if'], 27: ['never', 'say'], 52: ['like'], 29: ['was', 'at'], 30: ['baby', 'yeah', 'first', 'were'], 31: ['bad'], 288: ['i'], 162: ['and'], 35: ['ooh'], 37: ["isn't", "you're", 'wanna', 'up'], 39: ['oh'], 40: ['they', 'with'], 42: ['just'], 44: ['that', 'for'], 46: ['call', 'look'], 48: ['this'], 49: ['want'], 180: ['me'], 53: ['made'], 56: ["i'm"], 57: ["don't"], 58: ['is'], 60: ['be'], 62: ['do'], 64: ['we', 'but'], 65: ['on'], 66: ['of'], 32: ['know', 'time'], 73: ['all'], 322: ['you'], 34: ["'cause"], 84: ['your'], 90: ['what'], 223: ['the'], 99: ['in'], 101: ['so'], 104: ['to'], 140: ['my'], 212: ['it'], 126: ['a']}
+made [0, 2, 0, 7, 0, 40, 0, 1, 0, 1, 0, 2, 0, 0, 0] Ov: 53
+want [0, 0, 0, 0, 4, 0, 0, 0, 0, 3, 0, 6, 0, 33, 3] Ov: 49
+call [0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 43, 0] Ov: 46
+look [0, 0, 1, 0, 2, 39, 0, 3, 0, 0, 0, 0, 0, 1, 0] Ov: 46
+oh [1, 1, 1, 10, 1, 5, 1, 0, 3, 1, 9, 6, 0, 0, 0] Ov: 39
+wanna [0, 35, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0] Ov: 37
+up [0, 1, 14, 0, 2, 2, 5, 0, 0, 2, 0, 4, 1, 3, 3] Ov: 37
+ooh [0, 8, 0, 0, 0, 10, 0, 0, 0, 17, 0, 0, 0, 0, 0] Ov: 35
+time [5, 0, 0, 12, 1, 4, 0, 0, 1, 0, 6, 2, 0, 1, 0] Ov: 32
+know [7, 3, 0, 0, 8, 0, 7, 1, 0, 0, 2, 2, 0, 2, 0] Ov: 32
+bad [0, 4, 10, 0, 0, 4, 6, 0, 0, 0, 7, 0, 0, 0, 0] Ov: 31
+first [2, 9, 0, 1, 0, 0, 0, 0, 11, 0, 7, 0, 0, 0, 0] Ov: 30
+baby [7, 0, 0, 12, 0, 0, 6, 0, 0, 2, 1, 0, 2, 0, 0] Ov: 30
+yeah [0, 7, 0, 0, 4, 0, 0, 1, 0, 0, 10, 0, 0, 8, 0] Ov: 30
+never [5, 1, 3, 0, 4, 0, 0, 0, 8, 5, 0, 0, 0, 1, 0] Ov: 27
+one [4, 2, 3, 0, 0, 1, 0, 0, 0, 7, 1, 1, 0, 7, 0] Ov: 26
+take [3, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 16, 4, 0, 0] Ov: 26
+good [0, 1, 20, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0] Ov: 25
+hands [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 18, 5, 0, 0, 0] Ov: 24
+hold [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 20] Ov: 23
+things [3, 0, 0, 0, 1, 0, 3, 0, 0, 0, 0, 0, 14, 0, 0] Ov: 21
+now [4, 1, 1, 1, 3, 1, 6, 0, 1, 1, 0, 2, 0, 0, 0] Ov: 21
+once [0, 0, 0, 1, 0, 3, 0, 0, 0, 17, 0, 0, 0, 0, 0] Ov: 21
+whoa [0, 3, 0, 0, 0, 0, 0, 0, 0, 17, 0, 0, 0, 0, 0] Ov: 20
+waiting [0, 0, 0, 0, 0, 0, 0, 0, 0, 18, 0, 2, 0, 0, 0] Ov: 20
+feel [0, 0, 12, 0, 0, 0, 2, 4, 0, 0, 0, 0, 0, 0, 0] Ov: 18
+love [1, 3, 2, 7, 0, 0, 0, 0, 1, 1, 2, 0, 0, 0, 0] Ov: 17
+down [3, 1, 0, 0, 0, 0, 5, 0, 0, 0, 2, 0, 0, 3, 2] Ov: 16
+big [0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0] Ov: 15
+make [0, 0, 1, 0, 6, 0, 3, 4, 0, 0, 0, 0, 0, 1, 0] Ov: 15
+think [0, 0, 1, 0, 1, 1, 0, 2, 6, 0, 0, 0, 4, 0, 0] Ov: 15
+light [0, 0, 14, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0] Ov: 15
+right [0, 0, 0, 8, 0, 1, 3, 0, 0, 0, 0, 0, 0, 3, 0] Ov: 15
+face [0, 0, 0, 1, 0, 0, 3, 6, 1, 0, 2, 1, 1, 0, 0] Ov: 15
+back [0, 0, 0, 0, 2, 0, 4, 4, 0, 0, 0, 2, 1, 1, 1] Ov: 15
+nothing [1, 0, 1, 0, 0, 0, 0, 4, 4, 0, 2, 1, 0, 1, 0] Ov: 14
+see [7, 2, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0] Ov: 13
+games [12, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 13
+life [0, 1, 0, 11, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0] Ov: 13
+heart [0, 0, 0, 0, 0, 0, 1, 0, 4, 8, 0, 0, 0, 0, 0] Ov: 13
+soul [0, 1, 0, 0, 0, 0, 0, 0, 0, 11, 0, 0, 0, 0, 0] Ov: 12
+go [3, 1, 1, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0] Ov: 11
+night [7, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1] Ov: 11
+ah [0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 0, 0] Ov: 11
+over [0, 2, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 11
+body [0, 1, 0, 0, 0, 0, 0, 0, 0, 10, 0, 0, 0, 0, 0] Ov: 11
+best [0, 0, 0, 0, 3, 0, 0, 0, 1, 0, 0, 7, 0, 0, 0] Ov: 11
+dreams [6, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 10
+away [0, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 4, 2, 1] Ov: 10
+something [0, 1, 8, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 10
+doin' [0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0] Ov: 10
+save [0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0] Ov: 10
+cool [0, 0, 0, 0, 8, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0] Ov: 10
+place [0, 0, 0, 0, 0, 1, 3, 0, 6, 0, 0, 0, 0, 0, 0] Ov: 10
+world [0, 0, 3, 0, 0, 2, 0, 0, 0, 0, 4, 0, 0, 0, 0] Ov: 9
+name [0, 0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0] Ov: 9
+yours [0, 0, 0, 0, 0, 3, 6, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 9
+met [0, 0, 0, 0, 0, 0, 1, 0, 6, 1, 0, 1, 0, 0, 0] Ov: 9
+crazy [0, 1, 0, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 8
+eyes [0, 1, 0, 0, 1, 0, 4, 1, 0, 0, 0, 0, 0, 1, 0] Ov: 8
+head [0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 1, 3, 0] Ov: 8
+honey [0, 0, 0, 0, 1, 2, 0, 1, 1, 0, 0, 0, 3, 0, 0] Ov: 8
+feeling [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 0, 1, 0, 0] Ov: 8
+knew [2, 1, 0, 0, 0, 0, 0, 0, 2, 0, 2, 0, 0, 0, 0] Ov: 7
+keep [1, 1, 0, 0, 0, 0, 3, 0, 0, 1, 0, 0, 0, 1, 0] Ov: 7
+touch [3, 2, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 7
+alone [3, 0, 0, 0, 0, 0, 2, 1, 0, 1, 0, 0, 0, 0, 0] Ov: 7
+come [0, 1, 0, 0, 1, 1, 3, 1, 0, 0, 0, 0, 0, 0, 0] Ov: 7
+even [0, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 0, 0] Ov: 7
+trust [0, 0, 2, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 1, 0] Ov: 7
+again [0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 0, 0] Ov: 7
+far [0, 0, 0, 1, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0] Ov: 7
+here [0, 0, 0, 0, 2, 0, 3, 1, 0, 0, 0, 0, 1, 0, 0] Ov: 7
+break [0, 0, 0, 0, 0, 0, 2, 0, 1, 0, 0, 0, 4, 0, 0] Ov: 7
+room [0, 0, 0, 0, 0, 0, 0, 1, 0, 3, 2, 1, 0, 0, 0] Ov: 7
+darling [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 6, 0, 0] Ov: 7
+friend [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 1, 0, 0] Ov: 7
+girls [1, 2, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2] Ov: 6
+lights [3, 0, 0, 0, 1, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0] Ov: 6
+gonna [3, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1] Ov: 6
+little [0, 1, 0, 1, 0, 1, 2, 1, 0, 0, 0, 0, 0, 0, 0] Ov: 6
+fun [0, 1, 3, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0] Ov: 6
+mine [0, 0, 0, 1, 1, 2, 0, 2, 0, 0, 0, 0, 0, 0, 0] Ov: 6
+beat [0, 0, 0, 0, 0, 0, 0, 0, 3, 2, 0, 0, 1, 0, 0] Ov: 6
+shaking [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 2, 0, 0] Ov: 6
+new [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3] Ov: 6
+known [1, 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0] Ov: 5
+heard [0, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0] Ov: 5
+girl [0, 1, 0, 0, 0, 0, 3, 0, 0, 1, 0, 0, 0, 0, 0] Ov: 5
+both [0, 2, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 0, 0, 0] Ov: 5
+way [0, 1, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0] Ov: 5
+mistakes [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 2] Ov: 5
+drama [0, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 1, 1, 0] Ov: 5
+leave [0, 0, 1, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0] Ov: 5
+thing [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 0] Ov: 5
+fall [0, 0, 0, 1, 0, 0, 4, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 5
+stay [0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3] Ov: 5
+high [0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0] Ov: 5
+side [0, 0, 0, 0, 2, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0] Ov: 5
+black [0, 0, 0, 0, 1, 0, 3, 0, 1, 0, 0, 0, 0, 0, 0] Ov: 5
+chill [0, 0, 0, 0, 4, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 5
+floor [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4] Ov: 5
+pretend [0, 0, 0, 0, 1, 0, 0, 0, 4, 0, 0, 0, 0, 0, 0] Ov: 5
+laugh [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 4] Ov: 5
+out [0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0, 0, 1] Ov: 5
+making [0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 2] Ov: 5
+more [0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 0, 1, 0] Ov: 5
+saw [2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0] Ov: 4
+hard [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2] Ov: 4
+try [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0] Ov: 4
+such [1, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0] Ov: 4
+sorry [1, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0] Ov: 4
+need [0, 2, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0] Ov: 4
+another [0, 2, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 4
+play [0, 2, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 4
+long [0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1] Ov: 4
+loves [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0] Ov: 4
+hand [0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1] Ov: 4
+red [0, 1, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 4
+fly [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0] Ov: 4
+lose [0, 0, 0, 1, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 4
+mind [0, 0, 0, 2, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0] Ov: 4
+inside [0, 0, 0, 1, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0] Ov: 4
+worse [0, 0, 0, 0, 3, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0] Ov: 4
+babe [0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1] Ov: 4
+day [0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 3] Ov: 4
+old [0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 1, 0, 0, 0, 0] Ov: 4
+everyone [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0] Ov: 4
+honestly [0, 0, 0, 0, 0, 0, 3, 1, 0, 0, 0, 0, 0, 0, 0] Ov: 4
+last [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 3] Ov: 4
+took [0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 1, 1, 0] Ov: 4
+whole [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3, 0] Ov: 4
+loved [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0] Ov: 3
+left [1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0] Ov: 3
+boys [1, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0] Ov: 3
+man [1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0] Ov: 3
+better [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0] Ov: 3
+forever [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0] Ov: 3
+move [1, 0, 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0] Ov: 3
+names [1, 0, 0, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 3
+toast [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1] Ov: 3
+drinking [0, 2, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0] Ov: 3
+older [0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0] Ov: 3
+truth [0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0] Ov: 3
+we'd [0, 2, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0] Ov: 3
+lips [0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0] Ov: 3
+tell [0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1] Ov: 3
+three [0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1] Ov: 3
+gone [0, 0, 0, 1, 0, 0, 2, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 3
+echoes [0, 0, 0, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 3
+bar [0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0] Ov: 3
+phone [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0] Ov: 3
+dark [0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0] Ov: 3
+blue [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0] Ov: 3
+home [0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1] Ov: 3
+kingdom [0, 0, 0, 0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0] Ov: 3
+being [0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 0, 0, 1, 0, 0] Ov: 3
+times [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1] Ov: 3
+worst [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 2, 0, 0, 0] Ov: 3
+lies [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 0] Ov: 3
+secret [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0] Ov: 3
+golden [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2, 0, 0, 0] Ov: 3
+kiss [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0] Ov: 3
+burned [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 1, 0, 0, 0] Ov: 3
+ghost [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 2
+holdin' [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0] Ov: 2
+tryin' [1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0] Ov: 2
+hearts [1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 2
+taylor [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 2
+forget [1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 2
+same [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0] Ov: 2
+bit [0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 2
+end [0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0] Ov: 2
+storm [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0] Ov: 2
+days [0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 2
+without [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0] Ov: 2
+hit [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0] Ov: 2
+put [0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0] Ov: 2
+gold [0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 2
+calling [0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0] Ov: 2
+lie [0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 2
+thinks [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0] Ov: 2
+before [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1] Ov: 2
+change [0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0] Ov: 2
+darkest [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0] Ov: 2
+hair [0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0] Ov: 2
+sleep [0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0] Ov: 2
+dreaming [0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0] Ov: 2
+keys [0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0] Ov: 2
+wear [0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0] Ov: 2
+jealous [0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0] Ov: 2
+drunk [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0] Ov: 2
+talking [0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0] Ov: 2
+wanted [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0] Ov: 2
+reason [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0] Ov: 2
+turned [0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0] Ov: 2
+late [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0] Ov: 2
+idea [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0] Ov: 2
+lost [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1] Ov: 2
 
-
-UNIQUE SONGS ANALYSIS:
-#1 ...Ready For It?:
-['very', 'join', "we'll", 'heist', 'island', 'running', 'killer', 'stealing', 'wondered', 'though', 'exes', 'failure', 'vendetta-ta', 'jailer', "sayin'", 'act', 'haunted', 'many', 'robber', 'ransom', 'comparison', 'thief', 'burton', 'tame', 'phantom', 'younger']
-6.06060606061 percent (26) unique words. 
-#2 End Game:
-['four', 'issues', 'young', 'g5', 'song', 'told', 'boy', 'precede', 'prints', "whippin'", 'beautiful', 'a-side', 'maps', 'tried', 'insecurities', '4th', 'bluff', 'whenever', 'easier', 'bang', 'hatchets', 'reconnected', 'passed', 'july', 'believe', 'deny', 'paranoia', 'dope', 'words', 'chips', 'liquor', 'protect', 'argue', 'knee-deep', "couldn't", 'boat', 'shoulders', 'overdose', 'tip', 'choices', 'persona', 'usual', 'ease', 'ignore', 'understand', 'born', 'sprung', 'flaws', 'bury', 'swear', 'tongue', 'traits', 'stoked', 'rumors', 'hey', 'tricks']
-8.22320117474 percent (56) unique words. 
-#3 I Did Something Bad:
-['saved', 'crimson', 'says', 'regret', 'talks', 'ahead', 'proof', 'next', 'playboy', 'drops', 'spends', 'coming', 'receipts', 'paint', 'gotta', 'oh-so-easy', 'violin', 'pitchforks', 'around', 'narcissist', 'reasons', 'throw', "nothin'", 'shit']
-5.55555555556 percent (24) unique words. 
-#4 Don't Blame Me:
-['decide', 'poison', 'use', 'hiding', 'guys', "breakin'", "shakin'", 'happened', 'halo', 'obsession', 'paradise', 'daisy', 'grace', 'beg', 'insane', 'knees', 'whatever', 'walk', 'waste', 'playthings', 'ivy', 'cross', "pacin'", 'trip', "toyin'", 'line']
-5.48523206751 percent (26) unique words. 
-#5 Delicate:
-['meet', 'share', 'dive', 'third', 'footsteps', 'stairs', 'seen', 'mansion', 'view', 'wonder', 'jeans', 'west', 'nightstand', 'color', 'east', 'handsome', 'nikes']
-3.3203125 percent (17) unique words. 
-#6 Look What You Made Me Do:
-['gun', 'locked', 'perfect', 'fool', 'feast', 'tilted', 'sure', 'crime', 'asked', 'threw', "thing's", 'stage', 'belonged', 'maybe', 'role', 'karma']
-2.87253141831 percent (16) unique words. 
-#7 So It Goes...:
-['grey', 'feelings', "trip-trippin'", '1', 'necklace', '3', 'cage', 'goes)\xe2\x80\xa6', '2', 'illusionist', 'clear', 'hostage', "trippin'", 'against', 'disappear', "skippin'", 'magician', 'cut', 'wall', "skip-skippin'"]
-5.15463917526 percent (20) unique words. 
-#8 Gorgeous:
-['magnetic', 'ice', 'die', 'sink', 'along', 'drown', 'darkened', 'talk', 'actually', 'touching', 'doing', 'looking', 'guess', 'boyfriend', 'unless', 'sunset', 'vine', 'ruined', 'strong', 'might', 'ocean', 'field', 'stumble', 'cats', 'whiskey', 'single', 'girlfriend', 'club']
-7.25388601036 percent (28) unique words. 
-#9 Getaway Car:
-['switched', "drinkin'", 'myself', 'shoulda', 'great', 'shades', 'win', 'story', 'until', 'stole', 'crimes', 'mean', 'motel', 'ties', 'white', "screamin'", "lyin'", 'bonnie', 'gray', 'bag', 'blew', 'circus', "runnin'", 'money', 'clyde', 'prison', 'struck', 'match', "thinkin'", 'traitors', 'escape', 'freedom', 'jet-set', 'himself', 'sideshow', 'si-i-i-i-ide', 'surprise', 'needed', 'candlelight']
-7.0780399274 percent (39) unique words. 
-#10 King of my Heart:
-['endings', 'these', 'clothes', 'crush', 'few', 'live', 'roof', 'bones', 'weeks', 'school', 'priorities', 'cups', 'plastic', 'perfectly', 'nights', 'fine', "callin'", 'stuff', 'asleep', 'enough', "bein'", 'taste', 'beer', 'hoping', 'mending', 'luxury', 'broken', 'own', 'spending', 'dying', 'ago', "city's"]
-6.69456066946 percent (32) unique words. 
-#11 Dancing With Our Hands Tied:
-['avalanche', 'divide', 'started', 'keeping', 'sacred', 'years', 'held', 'twenty-five', 'oasis', 'putting', 'bed', 'gravity', 'spite', 'close', 'painted', 'frozen', 'people', 'sight', 'fears', 'who', 'paces']
-4.91803278689 percent (21) unique words. 
-#12 Dress:
-['rebounds', 'bathtub', 'crowded', 'wine', 'shake', 'lifeline', 'electrified', 'explain', 'spilling', 'buzzcut', 'moments', 'earthquakes', 'about\xe2\x80\x94', 'inescapable', 'bleached']
-3.0549898167 percent (15) unique words. 
-#13 This Is Why We Can't Have Nice Things:
-['fence', 'jump', 'second', 'trick', 'giving', '\xe2\x80\x98cause', 'haha', 'mended', 'shady', 'stabbed', 'issue', 'bass', 'axe', 'rattling', 'show', 'chandelier', 'champagne', 'throwing', 'sea', 'reading', 'straight', 'while', 'listen', 'locking', 'rules', 'forgiveness', 'rain', 'gates', 'therein', 'swimming', 'momma', 'parties', 'parade', "why'd", 'mind-twist', 'year', 'balcony', 'chance', 'gatsby', 'pool']
-10.1781170483 percent (40) unique words. 
-#14 Call It What You Want:
-['liars', 'warm', 'crumbled', 'brought', 'swings', "makin'", 'knows', 'under', 'recall', 'overnight', 'bridges', 'fade', 'brother', 'dressing', 'castle', 'fire', 'want\xe2\x80\xa6', 'grew', 'built', 'which', 'queens', 'windows', 'boarded', 'learn', 'lover', 'taking', 'kings', 'november', 'breath', 'owns', "nobody's", 'yes', 'flowers', 'starry', 'knife', 'laughing', 'burn', "sparkin'", 'months', 'gunfight', 'initial', 'thorns', 'slowly', 'crown', 'covers', 'really', 'jokers', 'forts', 'alright']
-9.5703125 percent (49) unique words. 
-#15 New Year's Day:
-['strike', 'crawling', 'turning', 'forevermore', 'taxi', 'scared', 'road', 'squeeze', 'town']
-2.43902439024 percent (9) unique words. 
+937 different words out of 7080 (13%)
+title, by artist
+# ...Ready For It?
+	Total words: 429
+	Unique words: 128 (29%)
+	Not stop words: 181 (42%)
+	Top 5 words: [('games', 12), ('begin', 12), ('see', 7), ('know', 7), ('middle', 7)]
+# End Game
+	Total words: 681
+	Unique words: 200 (29%)
+	Not stop words: 295 (43%)
+	Top 5 words: [('wanna', 35), ('endgame', 19), ('big', 14), ('reputation', 11), ('a-team', 10)]
+# I Did Something Bad
+	Total words: 432
+	Unique words: 118 (27%)
+	Not stop words: 188 (43%)
+	Top 5 words: [('good', 20), ('light', 14), ('up', 14), ('feel', 12), ('bad', 10)]
+# Don't Blame Me
+	Total words: 474
+	Unique words: 111 (23%)
+	Not stop words: 202 (42%)
+	Top 5 words: [('baby', 12), ("usin'", 12), ('time', 12), ('life', 11), ('rest', 10)]
+# Delicate
+	Total words: 512
+	Unique words: 117 (22%)
+	Not stop words: 145 (28%)
+	Top 5 words: [('delicate', 15), ('cool', 8), ('know', 8), ('make', 6), ('never', 4)]
+# Look What You Made Me Do
+	Total words: 557
+	Unique words: 112 (20%)
+	Not stop words: 212 (38%)
+	Top 5 words: [('made', 40), ('look', 39), ('ooh', 10), ('nobody', 8), ('oh', 5)]
+# So It Goes...
+	Total words: 388
+	Unique words: 104 (26%)
+	Not stop words: 178 (45%)
+	Top 5 words: [('know', 7), ('goes', 7), ('baby', 6), ('yours', 6), ('bad', 6)]
+# Gorgeous
+	Total words: 386
+	Unique words: 125 (32%)
+	Not stop words: 147 (38%)
+	Top 5 words: [('gorgeous', 13), ('hate', 6), ('face', 6), ('way', 4), ('makes', 4)]
+# Getaway Car
+	Total words: 551
+	Unique words: 162 (29%)
+	Not stop words: 260 (47%)
+	Top 5 words: [('getaway', 22), ('car', 22), ('first', 11), ('never', 8), ('far', 6)]
+# King of my Heart
+	Total words: 478
+	Unique words: 123 (25%)
+	Not stop words: 219 (45%)
+	Top 5 words: [('waiting', 18), ('once', 17), ('ooh', 17), ('whoa', 17), ('soul', 11)]
+# Dancing With Our Hands Tied
+	Total words: 427
+	Unique words: 116 (27%)
+	Not stop words: 203 (47%)
+	Top 5 words: [('dancing', 22), ('hands', 18), ('tied', 16), ('yeah', 10), ('oh', 9)]
+# Dress
+	Total words: 491
+	Unique words: 129 (26%)
+	Not stop words: 222 (45%)
+	Top 5 words: [('ha', 20), ('take', 16), ('bought', 10), ('dress', 10), ('ha-ah', 8)]
+# This Is Why We Can't Have Nice Things
+	Total words: 393
+	Unique words: 135 (34%)
+	Not stop words: 139 (35%)
+	Top 5 words: [('things', 14), ('nice', 13), ('darling', 6), ('break', 4), ('take', 4)]
+# Call It What You Want
+	Total words: 512
+	Unique words: 150 (29%)
+	Not stop words: 240 (46%)
+	Top 5 words: [('call', 43), ('want', 33), ('yeah', 8), ('one', 7), ("baby's", 6)]
+# New Year's Day
+	Total words: 369
+	Unique words: 96 (26%)
+	Not stop words: 151 (40%)
+	Top 5 words: [('hold', 20), ('memories', 9), ('floor', 4), ('please', 4), ('become', 4)]
