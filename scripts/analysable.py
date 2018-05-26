@@ -5,7 +5,7 @@ from util import is_stop_word
 
 
 class Analysable(ABC):
-    def __init__(self, title, vocab):
+    def __init__(self, title, vocab):        
         self.title = title
         self.vocab = vocab
         self.word_freq = Counter(self.vocab)
@@ -39,6 +39,15 @@ class Analysable(ABC):
 
     def get_unique_words(self):
         return set(self.vocab)
+
+    def get_unique_words_in_order(self):
+        unique_words = []
+
+        for word in self.vocab:
+            if word not in unique_words:
+                unique_words.append(word)
+        
+        return unique_words
 
     def contains_word(self, word):
         return word in self.vocab
