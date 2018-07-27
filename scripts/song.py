@@ -1,4 +1,3 @@
-from collections import Counter
 from analysable import Analysable
 
 
