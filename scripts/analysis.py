@@ -29,8 +29,8 @@ def instantiate_songs(file_lines):
     for line_index in range(1, len(file_lines)):
         line = file_lines[line_index]
         line_words = line.split()
-
-        if not (line_words or line_words[0][0] == '['):
+        
+        if (line_words and (not line_words[0][0] == '[')):
             if line_words[0][0] == '#':
                 if title != '':
                     new_song = Song(title.strip(), vocab)
@@ -52,20 +52,20 @@ def instantiate_songs(file_lines):
 def write_word_frequency(lyrics_file, album):
     lyrics_file.write('OVERALL:\n')
 
-    for (word, value) in album.get_most_common_words():
+    for (word, value) in album.most_common_words():
         if (not is_stop_word(word) and not album.is_one_song_exclusive(word)):
             lyrics_file.write(
-                word + ' ' + str(album.get_word_freq_per_song(word)) + ' Ov: ' + str(value) + '\n')
+                word + ' ' + str(album.word_freq_per_song(word)) + ' Ov: ' + str(value) + '\n')
 
     lyrics_file.write('\n')
 
 def write_bigram_frequency(lyrics_file, album):
     lyrics_file.write('OVERALL:\n')
 
-    for (bigram, value) in album.get_most_common_bigrams():
+    for (bigram, value) in album.most_common_bigrams():
         if not album.is_one_song_exclusive_bigram(bigram):
             lyrics_file.write(
-                str(bigram) + ' ' + str(album.get_bigram_freq_per_song(bigram)) +
+                str(bigram) + ' ' + str(album.bigram_freq_per_song(bigram)) +
                 ' Ov: ' + str(value) + '\n')
 
     lyrics_file.write('\n')
@@ -77,17 +77,11 @@ def write_txt(path, album):
 
         for song in songs:
             lyrics_file.write('# ' + song.title + '\n')
-            lyrics_file.write(str(song.get_top_bigrams(10)) + '\n\n')
-            ''' count = 0
-            for word in song.get_unique_words_in_order():
-                lyrics_file.write(word + ' ')
-                count += 1
-                if count % 10 == 0:
-                    lyrics_file.write('\n')
-            lyrics_file.write('\n\n') '''
+            lyrics_file.write(str(song.top_bigrams(10)) + '\n\n')
+
         write_bigram_frequency(lyrics_file, album)
         perc = 100.0 * len(set(album.vocab)) / len(album.vocab)
-        lyrics_file.write(str(len(album.get_unique_words())) + ' different words out of ' +
+        lyrics_file.write(str(len(album.unique_words())) + ' different words out of ' +
                           str(len(album.vocab)) + ' (' + str(int(perc)) + '%)\n')
 
         lyrics_file.write(str(album))

@@ -7,7 +7,7 @@ class Album(Analysable):
         super(Album, self).__init__(title, [])
         self.artist = artist
         self.songs = songs
-        self.vocab = self.get_vocab()
+        self.vocab = self.retrieve_vocab()
         self.word_freq = Counter(self.vocab)
 
     def __str__(self):
@@ -18,14 +18,14 @@ class Album(Analysable):
 
         return to_string
 
-    def get_vocab(self):
+    def retrieve_vocab(self):
         vocab = []
         for song in self.songs:
             for word in song.vocab:
                 vocab.append(word)
         return vocab
 
-    def get_word_freq_per_song(self, word):
+    def word_freq_per_song(self, word):
         word_frequency = []
 
         for song in self.songs:
@@ -33,7 +33,7 @@ class Album(Analysable):
 
         return word_frequency
 
-    def get_bigram_freq_per_song(self, bigram):
+    def bigram_freq_per_song(self, bigram):
         bigram_freq = []
 
         for song in self.songs:
@@ -42,13 +42,13 @@ class Album(Analysable):
         return bigram_freq
 
     def is_one_song_exclusive(self, word):
-        word_frequency = self.get_word_freq_per_song(word)
+        word_frequency = self.word_freq_per_song(word)
         temp_counter = Counter(word_frequency)
 
         return temp_counter.get(0) == len(self.songs) - 1
 
     def is_one_song_exclusive_bigram(self, bigram):
-        bigram_frequency = self.get_bigram_freq_per_song(bigram)
+        bigram_frequency = self.bigram_freq_per_song(bigram)
         temp_counter = Counter(bigram_frequency)
 
         return temp_counter.get(0) == len(self.songs) - 1
